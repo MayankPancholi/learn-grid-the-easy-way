@@ -182,7 +182,7 @@ h3 {
   }
 }
 
-@media (min-width: 48rem) {
+@media (min-width: 56rem) {
   .testimonial-grid {
     grid-template-areas: "one one two five" "three four four five";
   }
